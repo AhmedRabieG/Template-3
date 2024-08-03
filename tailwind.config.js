@@ -17,8 +17,10 @@ export default {
     },
     fontSize: {
       sm: ["14px", { lineHeight: "1.5", fontWeight: "400" }],
-      base: ["1rem", { lineHeight: "1.25", fontWeight: "400" }],
+      base: ["16px", { lineHeight: "1.5", fontWeight: "400" }],
+      baseBold: ["16px", { lineHeight: "1.5", fontWeight: "600" }],
       md:["18px", {lineHeight: "1.55", fontWeight: "400"}],
+      mdBold:["18px", {lineHeight: "1.5", fontWeight: "400"}],
       lg: ["26px", { lineHeight: "1.5", fontWeight: "600" }],
       xl: ["34px", { lineHeight: "1.5", fontWeight: "700"}],
       linksm: ["14px", { lineHeight: "1", fontWeight: "600" }],
@@ -28,7 +30,9 @@ export default {
       primary: {
         700: "#000000",
         600: "#333333",
-        500: "#595959"
+        500: "#595959",
+        300:"gba(0, 0, 0, 0.1)",
+        200: "#FFFFFF99"
       },
       black: {
         700: "#000000",

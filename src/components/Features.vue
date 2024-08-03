@@ -2,7 +2,7 @@
 </script>
 
 <template>
-    <section class="features mb-[172px] pt-[112px] bg-[#F5F5F5]">
+    <section class="features pb-[172px] pt-[112px] bg-[#F5F5F5]">
         <div class="container">
             <div class="max-w-[1280px] mx-auto">
 

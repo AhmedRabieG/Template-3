@@ -6,7 +6,7 @@
             <div class="flex gap-[109px] items-center max-w-[1280px] mx-auto">
                 <div class="">
                     <h3 class="mb-5">Ready to Transform Your Business</h3>
-                    <p class="text-primary-300 text-sm mb-[36px]">
+                    <p class="text-primary-600 text-sm mb-[36px]">
                         Your business is unique, and so are your goals. Discover how Zenify's
                         customizable solutions can tailor-fit to your journey of success.
                     </p>

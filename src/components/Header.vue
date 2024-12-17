@@ -1,8 +1,9 @@
 <script setup>
+
 </script>
 
 <template>
-    <section class="header header-border">
+    <section class="header border-solid border-b-[1px] border-[#CCCCCC]">
         <div class="container">
             <div class="flex items-center py-[13px] px-5">
                 <img class="me-[60px]" src="../assets/imges/logo.svg" alt="logo">
@@ -28,10 +29,10 @@
                         </li>
                     </ul>
                     <div class="flex gap-[25px] items-center leading-[1.5]">
-                        <a class="link" href="" alt="" target="_blank" >
+                        <button type="button" class="button" >
                             <span>Cart</span>
                             <span>(0)</span>
-                        </a>
+                        </button>
                         <a class="link" href="" alt="" target="_blank" >Sign in</a>
                         <a class="link link__primary text-14" href="" alt="" target="_blank" >Get Started</a>
                     </div>

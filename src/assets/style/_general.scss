@@ -38,7 +38,7 @@
     margin-right: auto;
     margin-left: auto;
   }
-  @media (min-width: 1336px) {
+  @media (min-width: 1400px) {
     .container {
       max-width: 1368px;
       padding-right: 1rem;
@@ -47,9 +47,6 @@
   }
   /////////////
   /// 
-.header-border {
-border-bottom: 1px solid rgba(0, 0, 0, 0.2);
-}
 .text-14 {
 font-size: 14px;
 }
